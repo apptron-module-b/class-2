@@ -20,3 +20,13 @@ export class Name extends Component {
     );
   }
 }
+
+export class Make extends Component {
+  render() {
+    return (
+      <div>
+        <p>I am a student</p>
+      </div>
+    );
+  }
+}

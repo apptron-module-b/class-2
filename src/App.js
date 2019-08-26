@@ -8,8 +8,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        {/* <Header />
-        <Jumbotron /> */}
+        <Header />
+        <Jumbotron />
         <Form />
       </div>
     );
